@@ -26,7 +26,5 @@ Project-2-Responsive-Web-Layout/
 └── images/
 ```
 
-## 🎯 Objective
 
-To practice creating responsive layouts that adapt smoothly to different screen sizes.
 
