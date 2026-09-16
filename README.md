@@ -30,5 +30,3 @@ Project-2-Responsive-Web-Layout/
 
 To practice creating responsive layouts that adapt smoothly to different screen sizes.
 
-
-**Your Name**
